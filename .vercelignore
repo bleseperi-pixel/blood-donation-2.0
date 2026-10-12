@@ -1,0 +1,8 @@
+tests/
+venv/
+.venv/
+__pycache__/
+.pytest_cache/
+*.db
+requirements-dev.txt
+run.py
